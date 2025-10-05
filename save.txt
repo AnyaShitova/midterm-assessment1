@@ -1,0 +1,3 @@
+player;Герой;24;5
+inventory;
+room;Лес
